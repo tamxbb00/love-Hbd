@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../_DataURI"
+		},
+		{
+			"path": "../api.soundcloud.com"
+		},
+		{
+			"path": "../fonts.googleapis.com"
+		},
+		{
+			"path": "../fonts.gstatic.com"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../feeldreams.github.io"
+		},
+		{
+			"path": "../New folder/unpkg.com"
+		},
+		{
+			"path": "../New folder/cdn.jsdelivr.net"
+		},
+		{
+			"path": "../New folder/media.tenor.com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hbd-2-0.vercel.app",
+		"liveServer.root": "/E:\\hc\\hbd-2-0.vercel.app",
+		"fiveServer.injectBody": true,
+		"fiveServer.navigate": true
+	}
+}
